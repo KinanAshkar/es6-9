@@ -1,6 +1,6 @@
 // Then & Catch & Training:
 
-/* const myPromise = new Promise((resolve, reject) => {
+const myPromise = new Promise((resolve, reject) => {
     // only one state allowed
     // resolve("resolved");
     // reject("rejected"); // ignore
@@ -24,6 +24,6 @@ myPromise.then(
 
 // myPromise.catch(
 //     (myRejected) => console.log(myRejected)
-// ); */
+// );
 
 // _____________________________
